@@ -42,6 +42,10 @@
 
 ### Demostração do projeto ✨
 
+## Video demostrativo
+https://user-images.githubusercontent.com/83671782/213197648-c131b55c-1751-40f5-b76b-0421160f964a.mp4
+
+
 ## Tela de compras
 ![image](https://user-images.githubusercontent.com/83671782/213194963-c4e214c3-1feb-4349-8042-7c592d86e4eb.png)
 
