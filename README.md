@@ -1,11 +1,11 @@
 <h1 align="center">
   <p>TECHSTORE</p>
-  <img src='./IMG/Capas readme.png'>
+  <img src='Capas readme.png'>
 </h1>
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=VERSÃO&message=1.0.0&color=C077CC&style=for-the-badge)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=DATA%20DA%20CRIAÇÃO&message=DEZ/22&color=e5c1eb&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=VERSÃO&message=1.0.0&color=2F67F8&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=DATA%20DA%20CRIAÇÃO&message=DEZ/22&color=F8A30C&style=for-the-badge)
 
 > Projeto com foco total na linguagem PHP Orientada a objeto, imprementação da tecnica PSR-4 com o composer e padrão de estilo com bootstrap.
 > Esse projeto me requeve bastante paciencia e atenção aos detalhes pois qualquer mudança faziam todas a diferença, mas de pouco a pouco esta andando 
@@ -41,9 +41,18 @@
 
 
 ### Demostração do projeto ✨
-> Sem video por enquanto :bulb:
 
+## Tela de compras
+![image](https://user-images.githubusercontent.com/83671782/213194963-c4e214c3-1feb-4349-8042-7c592d86e4eb.png)
 
+## Carrinho de compras
+![image](https://user-images.githubusercontent.com/83671782/213195245-47c3d987-6575-44bf-8780-70817b87495a.png)
+
+# Tela pagamento
+![image](https://user-images.githubusercontent.com/83671782/213195353-75dabd83-fa38-4122-b1f9-416ee66f8e8f.png)
+
+## Acesso as compras 
+![image](https://user-images.githubusercontent.com/83671782/213195089-c05515a0-e98a-4818-b636-a01bce854ffc.png)
 
 # tecnologias utilizadas no projeto 🌐
 
